@@ -52,7 +52,8 @@ autocmd VimENter * wincmd j
 " autocmd VimENter * wincmd j
 " autocmd VimENter * q
 " autocmd VimENter * wincmd h
-autocmd VimENter * terminal
+" autocmd VimENter * terminal
+ autocmd VimENter * octave "    to eedit script for gnuOctave or matlab
 autocmd VimENter * wincmd j
 autocmd VimENter * q
 autocmd VimENter * wincmd k
